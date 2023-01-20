@@ -1,7 +1,7 @@
 # Brute-force solution
 
-# Time Complexity: k*n*(2^n), where k is the sum of the coins (too big!)
-# Space Complexity: n*(2^n)
+# Time Complexity: O(k*n*(2^n)), where k is the sum of the coins (too big!)
+# Space Complexity: O(n*(2^n))
 
 def generate_subset(arr_coins, index, subset, subsets):
     if index == len(arr_coins):
