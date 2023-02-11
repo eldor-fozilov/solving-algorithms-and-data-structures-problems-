@@ -1,4 +1,4 @@
-# Time Complexity: O(n), n is the number of elements in the array
+# Time Complexity: O(n^2), n is the number of elements in the array
 # Auxiliary Space Complexity: O(1)
 
 def bubbleSort(array):
