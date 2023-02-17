@@ -1,6 +1,3 @@
-# O(nlog(n) + mlog(m) + nlog(m)) time | O(1) space, n is the length of the first input array
-# and m is the length of the second input array
-
 # O(nlog(n) + mlog(m)) time | O(1) space, n is the length of the first input array
 # and m is the length of the second input array
 
