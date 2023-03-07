@@ -1,4 +1,4 @@
-# O(nlog(n)) time | O(n) space - n is the legth of the input array
+# O(n^2) time | O(n) space - n is the legth of the input array
 
 class BST:
     def __init__(self, value, left=None, right=None):
