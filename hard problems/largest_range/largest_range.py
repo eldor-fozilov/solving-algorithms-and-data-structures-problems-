@@ -29,7 +29,4 @@ def largestRange(array):
             start_range_idx = end_range_idx = i + 1
             identical_values = 0
     
-    if output is None:
-        output = [array[0],array[-1]]
-    
     return output
